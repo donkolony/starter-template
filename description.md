@@ -1,0 +1,1 @@
+A modern, fully responsive one-page website template built with React and TailwindCSS. Designed to showcase how a single-page layout can effectively present a brand or service. Includes smooth scrolling, a dynamic sticky navbar, mobile navigation, section highlighting, and clean UI components.
